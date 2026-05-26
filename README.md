@@ -16,6 +16,3 @@
 
 [![li3_assetings ⭐ 4](https://www.shieldcn.dev/github/stars/pixxelboy/li3_assetings.svg?variant=secondary&size=sm&mode=light&theme=stone)](https://github.com/pixxelboy/li3_assetings) [![bucketlist ⭐ 2](https://www.shieldcn.dev/github/stars/pixxelboy/bucketlist.svg?variant=secondary&size=sm&mode=light&theme=stone)](https://github.com/pixxelboy/bucketlist) [![pixxelboy.github.com ⭐ 2](https://www.shieldcn.dev/github/stars/pixxelboy/pixxelboy.github.com.svg?variant=secondary&size=sm&mode=light&theme=stone)](https://github.com/pixxelboy/pixxelboy.github.com) [![fresh-intall-yosemite ⭐ 1](https://www.shieldcn.dev/github/stars/pixxelboy/fresh-intall-yosemite.svg?variant=secondary&size=sm&mode=light&theme=stone)](https://github.com/pixxelboy/fresh-intall-yosemite)
 
----
-
-<sub>Badges generated with [shieldcn](https://shieldcn.dev/gen/profile)</sub>
